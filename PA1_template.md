@@ -286,7 +286,6 @@ Yes, these new values differ from the estimates frome the first part of the assi
 Both mean and median are higher than the same metrics taken from the original data.
 
 
-
 ## Step 5: Are there differences in activity patterns between weekdays and weekends?  
 
 For this part the weekdays() function may be of some help here. Use the dataset with the filled-in missing values for this part.
